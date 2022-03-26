@@ -8,3 +8,5 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Discord: clever™#7723 | Instagram: nyc.vibhek
 - ⚡ Fun fact: I code in c, c++, and python.
+
+<img src="https://github-readme-stats.vercel.app/api?username=0xRooted&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
