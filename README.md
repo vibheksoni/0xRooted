@@ -10,5 +10,7 @@
 - ⚡ Fun fact: I code in c, c++, and python.
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/ios/50/000000/circled-c.png"/>
+<img src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xRooted&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
