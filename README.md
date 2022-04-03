@@ -1,4 +1,6 @@
-### Hi, I am 0xRooted 👋
+<p style="text-align:center">
+  Hi, I am 0xRooted 👋
+</p>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://www.spectrumguides.xyz)
 
