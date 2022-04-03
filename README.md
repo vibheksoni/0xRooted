@@ -1,5 +1,8 @@
 ### Hi, I am 0xRooted 👋
 
+<img srr="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</img>
 
 - 🔭 I’m currently working on A website for my cheats.
 - 🌱 I’m currently learning web development in flask.
