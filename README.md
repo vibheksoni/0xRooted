@@ -1,8 +1,6 @@
 ### Hi, I am 0xRooted 👋
 
-<img srr="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-
-</img>
+[![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://www.spectrumguides.xyz)
 
 - 🔭 I’m currently working on A website for my cheats.
 - 🌱 I’m currently learning web development in flask.
