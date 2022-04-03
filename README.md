@@ -1,6 +1,6 @@
 ### Hi, I am 0xRooted 👋
 
-<img srr="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img srr="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 </img>
 
