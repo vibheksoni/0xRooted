@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I am 0xRooted 👋</h1>
 <h3 align="center">A developer that is creative !</h3>
 
+<div align="center">
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://www.spectrumguides.xyz)
-
+<div/>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.instagram.com/nyc.vibhek/"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="N/A" height="30" width="40" />Instagram</a>
