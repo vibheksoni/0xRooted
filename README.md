@@ -2,7 +2,8 @@
 <h3 align="center">A developer that is creative !</h3>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
-  
+
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.instagram.com/nyc.vibhek/"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="N/A" height="30" width="40" />Instagram</a>
@@ -25,3 +26,4 @@
 <div/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xRooted&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  </div>
