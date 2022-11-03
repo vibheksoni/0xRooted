@@ -10,8 +10,8 @@
 🤔 I’m looking for help with Cheat Development.<br>
 💬 Ask me about any tech related stuff.<br>
 ⚡ Fun fact: I code in c, c++, and python.<br>
-<center>
 <h3 align="left">Languages and Tools:</h3>
+<center>
 <div style="display=inline;">
 <img style="display:inline;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img style="display:inline;" src="https://img.icons8.com/ios/50/000000/circled-c.png"/>
