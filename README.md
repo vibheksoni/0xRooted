@@ -3,15 +3,16 @@
 <h3 align="center">A developer that is creative !</h3>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
-
-- 🔭 I’m currently working on A website for my cheats.
-- 🌱 I’m currently learning web development in flask.
-- 👯 I’m looking to collaborate on open source projects to help the world.
-- 🤔 I’m looking for help with Cheat Development.
-- 💬 Ask me about any tech related stuff.
-- ⚡ Fun fact: I code in c, c++, and python.
+<div align="center">
+🔭 I’m currently working on A website for my cheats.
+🌱 I’m currently learning web development in flask.
+👯 I’m looking to collaborate on open source projects to help the world.
+🤔 I’m looking for help with Cheat Development.
+💬 Ask me about any tech related stuff.
+⚡ Fun fact: I code in c, c++, and python.
+  </div>
 <h3 align="left">Languages and Tools:</h3>
-<div style="display=inline; list-style:none;">
+<div style="display=inline;">
 <img style="display:inline;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img style="display:inline;" src="https://img.icons8.com/ios/50/000000/circled-c.png"/>
 <img style="display:inline;" src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>
