@@ -4,12 +4,6 @@
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="_blank" href="https://www.instagram.com/nyc.vibhek/"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="N/A" height="30" width="40" />Instagram</a>
-<a target="_blank" href="https://www.discord.com/invite/EasyShop" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/discord-logo.png" alt="N/A" height="30" width="40" />Discord</a>
-</p>
-
 - 🔭 I’m currently working on A website for my cheats.
 - 🌱 I’m currently learning web development in flask.
 - 👯 I’m looking to collaborate on open source projects to help the world.
