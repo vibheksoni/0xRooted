@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am 0xRooted 👋</h1>
+<h1 align="center">Hi, I am 👋</h1>
 <h3 align="center">A developer that is creative !</h3>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on open source projects to help the world.
 - 🤔 I’m looking for help with Cheat Development.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: Discord: skilled#0001 | Instagram: nyc.vibhek
 - ⚡ Fun fact: I code in c, c++, and python.
 <h3 align="left">Languages and Tools:</h3>
 <div style="display=inline; list-style:none;">
