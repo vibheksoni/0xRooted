@@ -12,7 +12,7 @@
 - 📫 How to reach me: Discord: skilled#0001 | Instagram: nyc.vibhek
 - ⚡ Fun fact: I code in c, c++, and python.
 <h3 align="left">Languages and Tools:</h3>
-<div style="display=inline;">
+<div style="display=inline; list-style:none;">
 <img style="display:inline;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img style="display:inline;" src="https://img.icons8.com/ios/50/000000/circled-c.png"/>
 <img style="display:inline;" src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png"/>
