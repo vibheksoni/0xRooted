@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am 👋</h1>
+<h1 align="center">Hi, I am 0xRooted 👋</h1>
 <h3 align="center">A developer that is creative !</h3>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
