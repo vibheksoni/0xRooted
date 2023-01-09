@@ -4,10 +4,8 @@
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
 <center>
-🔭 I’m currently working on A website for my cheats.<br>
 🌱 I’m currently learning web development in flask.<br>
 👯 I’m looking to collaborate on open source projects to help the world.<br>
-🤔 I’m looking for help with Cheat Development.<br>
 💬 Ask me about any tech related stuff.<br>
 ⚡ Fun fact: I code in c, c++, and python.<br>
 <h3 align="center">Languages and Tools:</h3>
