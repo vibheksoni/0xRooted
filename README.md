@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I am 0xRooted 👋</h1>
+<h1 align="center">Hi, I am Vibhek 👋</h1>
 <h3 align="center">A developer that is creative !</h3>
 
 [![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://discord.gg/EasyShop)
@@ -9,7 +9,7 @@
 💬 Ask me about any tech related stuff.<br>
 ⚡ Fun fact: I code in c, c++, and python.<br>
 <h3 align="center">Languages and Tools:</h3>
-<h3 align="center">Discord: m4trix#0001</h3>
+<h3 align="center">Discord: zer0.bytes</h3>
 <center>
 <div style="display=inline;">
 <img style="display:inline;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
